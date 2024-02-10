@@ -23,8 +23,8 @@ public class PowerPill
      */
     public PowerPill(String name)
     {
+        power = DEFAULT_POWER;
         setName(name);
-        int power;
     }
 
     /**
