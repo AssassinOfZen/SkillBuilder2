@@ -24,6 +24,7 @@ public class PowerPill
     public PowerPill(String name)
     {
         setName(name);
+        int power;
     }
 
     /**
